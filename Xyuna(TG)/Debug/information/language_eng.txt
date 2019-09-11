@@ -1,0 +1,6 @@
+5
+heal:
+atak:
+def:
+lvl:
+Name:

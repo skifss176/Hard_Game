@@ -1,0 +1,3 @@
+information/items.txt
+information/tree.txt
+information/language_
